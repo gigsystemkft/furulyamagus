@@ -1,0 +1,6 @@
+{
+  "name": "Furulya Mágus",
+  "description": "Interaktív furulya tanító alkalmazás mikrofon alapú hangfelismeréssel, lufipukkasztó játékkal, fogástáblával és ajándékbolttal gyerekeknek.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
